@@ -1588,7 +1588,8 @@ main.knowledge .relationArticle__single--bnr small, main.knowledge .relationArti
 main.knowledge .relationArticle__single--bnr {
   display: block;
   border: 1px solid #646464;
-  background: #fff;
+  margin-bottom: 3.5rem;
+  /* background: #fff; */
 }
 
 main.knowledge .relationArticle__single--bnr:hover {
